@@ -4,14 +4,14 @@
     - go
     - rust 
     - bob-nvim
-    - neovim
-    - tmux
-    - tmux config
+    - neovim and config
+    - tmux 
+    - tpm
+    - gitmux
     - lazygit (maybe)
     - i3 (maybe)
     - ohmyposh
     - xclip or xsel 
-    - tpm
     - wezterm (maybe)
     - nerd font
 
