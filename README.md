@@ -14,6 +14,7 @@
     - xclip or xsel 
     - wezterm (maybe)
     - nerd font
+    - brew
 
 # .zshrc / .bashrc
 ```bash
